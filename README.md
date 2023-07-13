@@ -2,7 +2,7 @@
 Universal Generative Modeling in Dual-domain for Dynamic MR Imaging
 **Paper**: Universal Generative Modeling in Dual-domain for Dynamic MR Imaging
 
-**Authors**: Chuanming Yu, Yu Guan, Ziwen Ke, Ke Lei, Dong Liang*, Qiegen Liu*
+**Authors**: Chuanming Yu, Yu Guan, Ziwen Ke, Ke Lei, Dong Liang, Qiegen Liu*
 
 Date : June-13-2023  
 Version : 1.0  
