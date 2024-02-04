@@ -1,9 +1,9 @@
-# DD-UGM
-Universal Generative Modeling in Dual-domain for Dynamic MR Imaging
+# DD-UGM    
 **Paper**: Universal Generative Modeling in Dual-domain for Dynamic MR Imaging
-
 **Authors**: Chuanming Yu, Yu Guan, Ziwen Ke, Ke Lei, Dong Liang, Qiegen Liu*
-
+NMR in Biomedicine 36 (12), e5011         
+https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011     
+     
 Date : June-13-2023  
 Version : 1.0  
 The code and the algorithm are for non-comercial use only.  
